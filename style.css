@@ -84,12 +84,13 @@ footer {
     margin-right: 25px;
 }
 
-/* lines 88-127 have been semented by changing class names in the html and combining those with the same comands. */
+
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* lines 88-127 have been semented by changing class names in the html and combining those with the same comands. */
 .lead-brand-cost {
     margin-bottom: 32px;
     color: #ffffff;
